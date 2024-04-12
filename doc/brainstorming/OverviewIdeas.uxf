@@ -1,22 +1,22 @@
-<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLNote</id><coordinates><x>240</x><y>160</y><w>260</w><h>190</h></coordinates><panel_attributes>First Sketch
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLNote</id><coordinates><x>200</x><y>60</y><w>260</w><h>190</h></coordinates><panel_attributes>First Sketch
 
 - 1 Synth
 - click/drag for inputting your sequence
 - read the sequence play it back
 
 bg=orange
-style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>410</x><y>500</y><w>270</w><h>120</h></coordinates><panel_attributes>Slice One (Audio)
+style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>370</x><y>400</y><w>270</w><h>120</h></coordinates><panel_attributes>Slice One (Audio)
 
 - Make class that generates sine and triangle waves
         - takes inputs for pitch 
 bg=blue
-style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>70</x><y>500</y><w>270</w><h>120</h></coordinates><panel_attributes>Slice One (Graphics)
+style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>30</x><y>400</y><w>270</w><h>120</h></coordinates><panel_attributes>Slice One (Graphics)
 
 - Make a piano roll UI
         - click a note to push_back on a text file
         - seperate render pass with ID color mouse picking
 bg=green
-style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>780</x><y>140</y><w>210</w><h>130</h></coordinates><panel_attributes>Future Ideas
+style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>740</x><y>40</y><w>210</w><h>130</h></coordinates><panel_attributes>Future Ideas
 
 - more instruments
 - loading in backing track
