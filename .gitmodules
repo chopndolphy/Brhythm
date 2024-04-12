@@ -1,3 +1,4 @@
 [submodule "lib/vkbootstrap"]
 	path = lib/vkbootstrap
 	url = https://github.com/charles-lunarg/vk-bootstrap.git
+	ignore = dirty
